@@ -1,5 +1,6 @@
 body{
 	font-family:Arial;
+
 }
 
 .logo{
@@ -81,5 +82,5 @@ li{
 }
 
 #right{
-	float:right;
+  	float:right;
 }
